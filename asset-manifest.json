@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trouvelemot/static/css/main.d0d69840.css",
+    "main.js": "/trouvelemot/static/js/main.103d4e42.js",
+    "static/js/787.b3f9d252.chunk.js": "/trouvelemot/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/trouvelemot/index.html",
+    "main.d0d69840.css.map": "/trouvelemot/static/css/main.d0d69840.css.map",
+    "main.103d4e42.js.map": "/trouvelemot/static/js/main.103d4e42.js.map",
+    "787.b3f9d252.chunk.js.map": "/trouvelemot/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0d69840.css",
+    "static/js/main.103d4e42.js"
+  ]
+}
